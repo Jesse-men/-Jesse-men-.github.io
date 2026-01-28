@@ -21,6 +21,10 @@ plugins:
   - jekyll-email-protect
   - jekyll-sitemap
 
+# Ensure verification file is published.
+include:
+  - googlea820edd60a8ca539.html
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
