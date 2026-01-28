@@ -1,18 +1,19 @@
-primary_name: "Your Name"
+primary_name: "Jingxuan Men (Jesse)"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jingxuan Men (Jesse)"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Mr
+- name: PH.D. researcher
+  logo: /assets/images/badges/university_of_surrey.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "jmen@connect.ust.hk"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: VgxIM0YAAAAJ
+github: Jesse-men
+# twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: jingxuan-men
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,40 +23,48 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I work at the intersection of AI for wireless communication and immersive media rendering and transmission. I enjoy turning ideas into practical, real-time systems that are efficient and user-centric.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Outside the lab, I keep things active and creative: I like fitness 💪 and swimming 🏊‍♀️, take photos 📷 to capture everyday stories, and unwind by cooking 🍳. Feel free to connect with me if our interests overlap.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait_jesse.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Surrey
+  logo: /assets/images/badges/university_of_surrey.png
   position: >- 
     Department of Electrical Engineering and Computer Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Jan. 2023 - present
+- name: The Hong Kong University of Science and Technology
+  logo: /assets/images/badges/hkust.png
+  position: MSC in Telecommunications
+  date: Sep. 2020 - Nov. 2021
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: TUDOR
+  dept: Towards Ubiquitous 3D Open Resilient Network (UK flagship project)
+  position: Semantic communication track
+  date: 2023 - 2025
+- name: Holographic Teleportation Lab
+  dept: University of Surrey 6G Innovation Centre
+  position: Research activities and external demonstrations
+  date: 2023 - Present
+- name: MWC Barcelona
+  dept: Demo display
+  position: Semantic Communication for Immersive Multi-View Media Delivery and 3D Human Rendering
+  date: 2025
+- name: Hong Kong RGC project
+  dept: “Distributed Multi-hop C-V2X Self-Optimizing Network”
+  position: Research project participant
+  date: 2021 - 2023
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: >-
+    The Hang Seng University of Hong Kong <br/>
+    Research Assistant, The Department of Computing <br/>
+  date: Oct. 2021 - Jan. 2023
